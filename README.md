@@ -45,4 +45,5 @@ Coming to the rest of the program:
 
 Finally, the mainloop() function is a common Python function invoked and used in Python’s GUI-based programs where the function creates a GUI event loop and keeps the window open until the user chooses to close it.
 # Output:
-![image](https://github.com/user-attachments/assets/0da98c81-e7dd-4339-9559-a4b0a7b9b2f8
+![image](https://github.com/user-attachments/assets/eedf4178-823c-47a6-8ba0-d0f9ecc203d4)
+
